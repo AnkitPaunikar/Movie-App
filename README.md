@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-preview : https://ankitmoviescatalog.netlify.app
+preview : https://ankitmoviescatalogue.netlify.app
 
 ## Development server
 
